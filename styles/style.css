@@ -1,4 +1,4 @@
-/* The design of the project was inpired be the [TriviaPlaza](http://www.triviaplaza.com/) website. 
+/* The design of the project was inpired be the [TriviaPlaza](http://www.triviaplaza.com/) website.
 None of the code was copied. */
 
 html, body {
@@ -6,7 +6,7 @@ html, body {
 }
 
 body{
-    background: linear-gradient(#4F428B, #000000, #000000, #000000, #000000);
+    background: linear-gradient(#4F428B, #000000);
     background-size: cover;
     background-repeat: no-repeat;
     font-family: tahoma, arial, helvetica, sans-serif;
