@@ -1,6 +1,6 @@
 /*
   Global variables reside here.
-  First 7 are JQuery shortcuts, and then there are counters for display fields 
+  First 7 are JQuery shortcuts, and then there are counters for display fields
 */
 
 var qField = $('.q_field')
@@ -17,7 +17,8 @@ var lvlIndex = 0
 var lvlCounter = 0
 
 
-/* 
+// Amazing Documentation
+/*
   The main game class.
   Structure goes like this:
   1. Constructor launches the newLvl() which accesses the local
@@ -113,7 +114,7 @@ class TriviaGame {
       setTimeout(function() {
         $(target).css('background', 'linear-gradient(#4F428B, #22155A)');
       }, 900);
-      
+
     }
 
     // Button coloring in red if the answer was wrong

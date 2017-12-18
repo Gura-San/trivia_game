@@ -8,13 +8,10 @@ The project was done for the WDI20 first project assignment by Sandro Guraspasvi
 Working.
 
 ## Screenshot
-[Main game screen](https://git.generalassemb.ly/Gura-San/trivia_game/blob/master/images/game_main_screen.jpg)
-
-[logo]: images/game_main_screen.jpg "Main game screen"
-
+![Main game screen](./images/game_main_screen.jpg)
 
 ## Tech/framework used
-The project was written in **HTML**/**CSS**/**Java script**/**JQuery**
+The project was written in **HTML**/**CSS**/**Java script**/**jQuery**
 
 ## Installation
 Runs in the browser
@@ -22,8 +19,9 @@ Runs in the browser
 ## Known issues
 The page isn't mobile responsive currently
 
+<!-- Good practice to give credit to contributors  -->
 ## Shoutout
 A big shoutout Zack and Hamad for helping with the logic during the development process
 
 ## Triviaplaza
-The design of the project was inpired be the [TriviaPlaza](http://www.triviaplaza.com/) website. None of the code was copied.
+The design of the project was inspired be the [TriviaPlaza](http://www.triviaplaza.com/) website. None of the code was copied.
