@@ -6,7 +6,7 @@ html, body {
 }
 
 body{
-    background: linear-gradient(#4F428B, #000000);
+    background: linear-gradient(#4F428B, #000000, #000000, #000000, #000000);
     background-size: cover;
     background-repeat: no-repeat;
     font-family: tahoma, arial, helvetica, sans-serif;
